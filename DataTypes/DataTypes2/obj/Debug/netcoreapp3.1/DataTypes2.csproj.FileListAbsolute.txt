@@ -1,0 +1,12 @@
+D:\RideXpress\DataTypes\DataTypes2\bin\Debug\netcoreapp3.1\DataTypes2.exe
+D:\RideXpress\DataTypes\DataTypes2\bin\Debug\netcoreapp3.1\DataTypes2.deps.json
+D:\RideXpress\DataTypes\DataTypes2\bin\Debug\netcoreapp3.1\DataTypes2.runtimeconfig.json
+D:\RideXpress\DataTypes\DataTypes2\bin\Debug\netcoreapp3.1\DataTypes2.runtimeconfig.dev.json
+D:\RideXpress\DataTypes\DataTypes2\bin\Debug\netcoreapp3.1\DataTypes2.dll
+D:\RideXpress\DataTypes\DataTypes2\bin\Debug\netcoreapp3.1\DataTypes2.pdb
+D:\RideXpress\DataTypes\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.AssemblyInfoInputs.cache
+D:\RideXpress\DataTypes\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.AssemblyInfo.cs
+D:\RideXpress\DataTypes\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.csproj.CoreCompileInputs.cache
+D:\RideXpress\DataTypes\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.dll
+D:\RideXpress\DataTypes\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.pdb
+D:\RideXpress\DataTypes\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.genruntimeconfig.cache

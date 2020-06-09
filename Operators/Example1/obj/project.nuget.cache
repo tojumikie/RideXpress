@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fQJjqT4XPiDhMgdM61fSkPDs6dgoPy5o+rQDFqzVlPlZJc9mx68kKNd2M5ZDPawAjRwaaIYxCYHMLeuQOyTbsw==",
+  "success": true,
+  "projectFilePath": "D:\\RideXpress\\Operators\\Example1\\Operators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tojum\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

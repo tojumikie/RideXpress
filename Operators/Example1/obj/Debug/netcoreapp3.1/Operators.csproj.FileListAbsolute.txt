@@ -1,0 +1,13 @@
+D:\RideXpress\Operators\Example1\bin\Debug\netcoreapp3.1\Operators.exe
+D:\RideXpress\Operators\Example1\bin\Debug\netcoreapp3.1\Operators.deps.json
+D:\RideXpress\Operators\Example1\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+D:\RideXpress\Operators\Example1\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+D:\RideXpress\Operators\Example1\bin\Debug\netcoreapp3.1\Operators.dll
+D:\RideXpress\Operators\Example1\bin\Debug\netcoreapp3.1\Operators.pdb
+D:\RideXpress\Operators\Example1\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+D:\RideXpress\Operators\Example1\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+D:\RideXpress\Operators\Example1\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+D:\RideXpress\Operators\Example1\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+D:\RideXpress\Operators\Example1\obj\Debug\netcoreapp3.1\Operators.dll
+D:\RideXpress\Operators\Example1\obj\Debug\netcoreapp3.1\Operators.pdb
+D:\RideXpress\Operators\Example1\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

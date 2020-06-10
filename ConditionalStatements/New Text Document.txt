@@ -1,0 +1,16 @@
+            int menu = 0;
+            Console.Out.WriteLine("Please select an Option (1 or 2):");
+            menu = Convert.ToInt32(Console.In.ReadLine());
+
+            switch (menu)
+            {
+                case 1:
+                    Console.Out.WriteLine("You have selected option 1!");
+                    break;
+                case 2:
+                    Console.Out.WriteLine("You have selected option 2!");
+                    break;
+                default:
+                    Console.Out.WriteLine("Invalid selection.");
+                    break;
+            }

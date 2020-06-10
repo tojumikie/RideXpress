@@ -1,0 +1,13 @@
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\bin\Debug\netcoreapp3.1\SwitchStatementDemo.exe
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\bin\Debug\netcoreapp3.1\SwitchStatementDemo.deps.json
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\bin\Debug\netcoreapp3.1\SwitchStatementDemo.runtimeconfig.json
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\bin\Debug\netcoreapp3.1\SwitchStatementDemo.runtimeconfig.dev.json
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\bin\Debug\netcoreapp3.1\SwitchStatementDemo.dll
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\bin\Debug\netcoreapp3.1\SwitchStatementDemo.pdb
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\obj\Debug\netcoreapp3.1\SwitchStatementDemo.csprojAssemblyReference.cache
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\obj\Debug\netcoreapp3.1\SwitchStatementDemo.AssemblyInfoInputs.cache
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\obj\Debug\netcoreapp3.1\SwitchStatementDemo.AssemblyInfo.cs
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\obj\Debug\netcoreapp3.1\SwitchStatementDemo.csproj.CoreCompileInputs.cache
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\obj\Debug\netcoreapp3.1\SwitchStatementDemo.dll
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\obj\Debug\netcoreapp3.1\SwitchStatementDemo.pdb
+D:\RideXpress\SwitchStatementDemo\SwitchStatementDemo\obj\Debug\netcoreapp3.1\SwitchStatementDemo.genruntimeconfig.cache

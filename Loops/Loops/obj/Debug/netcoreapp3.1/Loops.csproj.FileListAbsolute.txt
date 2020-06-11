@@ -1,0 +1,13 @@
+D:\RideXpress\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+D:\RideXpress\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+D:\RideXpress\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+D:\RideXpress\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+D:\RideXpress\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+D:\RideXpress\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+D:\RideXpress\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+D:\RideXpress\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+D:\RideXpress\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+D:\RideXpress\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+D:\RideXpress\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+D:\RideXpress\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
+D:\RideXpress\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\RideXpress\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+D:\RideXpress\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+D:\RideXpress\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+D:\RideXpress\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+D:\RideXpress\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+D:\RideXpress\Inheritance\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+D:\RideXpress\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csprojAssemblyReference.cache
+D:\RideXpress\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+D:\RideXpress\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+D:\RideXpress\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+D:\RideXpress\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+D:\RideXpress\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+D:\RideXpress\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache

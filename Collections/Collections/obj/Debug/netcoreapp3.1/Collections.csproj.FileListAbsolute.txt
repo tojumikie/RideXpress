@@ -1,0 +1,13 @@
+D:\RideXpress\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache
+D:\RideXpress\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+D:\RideXpress\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+D:\RideXpress\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+D:\RideXpress\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+D:\RideXpress\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+D:\RideXpress\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+D:\RideXpress\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+D:\RideXpress\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+D:\RideXpress\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+D:\RideXpress\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+D:\RideXpress\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+D:\RideXpress\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 
 namespace Collections
 {
@@ -22,7 +23,7 @@ namespace Collections
             {
                 Console.Out.Write(sArray[i]);
             }
-            Console.Out.Write(s);
+            Console.Out.Write("\n");
 
             foreach (string s in sList)
             {
@@ -38,6 +39,23 @@ namespace Collections
                 Console.Out.Write(s);
             }
             Console.Out.WriteLine("\n");
+
+            /* ---------------------------------- */
+
+            int[,] table = new int[10, 10];
+
+            //for each element in the first array dimension...
+            for (int i = 1; i < table.GetLength(0); ++i)
+            {
+                //iterate over each element in the second array dimension
+                for (int j = 1; j <= table.GetLength(1); ++j)
+                {
+                    //array indices start at 0 in C#
+                    table[i - 1, j - 1] = i * j;
+                    Console.Out.Write(table[i - 1, j - 1] + " ");
+                }
+                Console.Out.WriteLine();
+            }
         }
     }
 }

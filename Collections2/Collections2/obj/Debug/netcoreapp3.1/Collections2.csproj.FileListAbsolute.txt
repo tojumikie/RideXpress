@@ -1,0 +1,13 @@
+D:\RideXpress\Collections2\Collections2\bin\Debug\netcoreapp3.1\Collections2.exe
+D:\RideXpress\Collections2\Collections2\bin\Debug\netcoreapp3.1\Collections2.deps.json
+D:\RideXpress\Collections2\Collections2\bin\Debug\netcoreapp3.1\Collections2.runtimeconfig.json
+D:\RideXpress\Collections2\Collections2\bin\Debug\netcoreapp3.1\Collections2.runtimeconfig.dev.json
+D:\RideXpress\Collections2\Collections2\bin\Debug\netcoreapp3.1\Collections2.dll
+D:\RideXpress\Collections2\Collections2\bin\Debug\netcoreapp3.1\Collections2.pdb
+D:\RideXpress\Collections2\Collections2\obj\Debug\netcoreapp3.1\Collections2.csprojAssemblyReference.cache
+D:\RideXpress\Collections2\Collections2\obj\Debug\netcoreapp3.1\Collections2.AssemblyInfoInputs.cache
+D:\RideXpress\Collections2\Collections2\obj\Debug\netcoreapp3.1\Collections2.AssemblyInfo.cs
+D:\RideXpress\Collections2\Collections2\obj\Debug\netcoreapp3.1\Collections2.csproj.CoreCompileInputs.cache
+D:\RideXpress\Collections2\Collections2\obj\Debug\netcoreapp3.1\Collections2.dll
+D:\RideXpress\Collections2\Collections2\obj\Debug\netcoreapp3.1\Collections2.pdb
+D:\RideXpress\Collections2\Collections2\obj\Debug\netcoreapp3.1\Collections2.genruntimeconfig.cache

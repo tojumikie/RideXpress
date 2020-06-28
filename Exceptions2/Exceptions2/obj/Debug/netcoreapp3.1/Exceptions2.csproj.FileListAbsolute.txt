@@ -1,0 +1,12 @@
+D:\RideXpress\Exceptions2\Exceptions2\bin\Debug\netcoreapp3.1\Exceptions2.exe
+D:\RideXpress\Exceptions2\Exceptions2\bin\Debug\netcoreapp3.1\Exceptions2.deps.json
+D:\RideXpress\Exceptions2\Exceptions2\bin\Debug\netcoreapp3.1\Exceptions2.runtimeconfig.json
+D:\RideXpress\Exceptions2\Exceptions2\bin\Debug\netcoreapp3.1\Exceptions2.runtimeconfig.dev.json
+D:\RideXpress\Exceptions2\Exceptions2\bin\Debug\netcoreapp3.1\Exceptions2.dll
+D:\RideXpress\Exceptions2\Exceptions2\bin\Debug\netcoreapp3.1\Exceptions2.pdb
+D:\RideXpress\Exceptions2\Exceptions2\obj\Debug\netcoreapp3.1\Exceptions2.AssemblyInfoInputs.cache
+D:\RideXpress\Exceptions2\Exceptions2\obj\Debug\netcoreapp3.1\Exceptions2.AssemblyInfo.cs
+D:\RideXpress\Exceptions2\Exceptions2\obj\Debug\netcoreapp3.1\Exceptions2.csproj.CoreCompileInputs.cache
+D:\RideXpress\Exceptions2\Exceptions2\obj\Debug\netcoreapp3.1\Exceptions2.dll
+D:\RideXpress\Exceptions2\Exceptions2\obj\Debug\netcoreapp3.1\Exceptions2.pdb
+D:\RideXpress\Exceptions2\Exceptions2\obj\Debug\netcoreapp3.1\Exceptions2.genruntimeconfig.cache

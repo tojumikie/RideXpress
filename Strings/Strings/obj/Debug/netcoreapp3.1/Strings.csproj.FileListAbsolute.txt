@@ -10,3 +10,4 @@ D:\RideXpress\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompile
 D:\RideXpress\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.dll
 D:\RideXpress\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
 D:\RideXpress\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
+D:\RideXpress\Strings\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache
